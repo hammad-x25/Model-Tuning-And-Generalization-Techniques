@@ -17,7 +17,7 @@ It focuses on understanding **underfitting**, **overfitting**, and methods to co
 ### 🔹 Model Evaluation & Selection
 - Train/validation/test splits  
 - Cross-validation (k-fold)  
-- Performance metrics (MSE, accuracy, precision, recall, F1)  
+- Performance metrics  
 - Comparison of regression, classification, and neural network models  
 
 ---
@@ -45,8 +45,7 @@ Model-Tuning-And-Generalization-Techniques/
 ├── LICENSE
 └── README.md
 
-yaml
-Copy code
+
 
 ---
 
