@@ -26,19 +26,19 @@ It focuses on understanding **underfitting**, **overfitting**, and methods to co
 
 Model-Tuning-And-Generalization-Techniques/
 │
-├── Bias_Variance_Control/
+├── Bias_Variance_Control
 │ ├── main.ipynb
 │ └── utils.py
 │
-├── Model_Evaluation_Selection/
-│ ├── Regression/
+├── Model_Evaluation_Selection
+│ ├── Regression
 │ │ └── main.ipynb
-│ ├── Classification/
+│ ├── Classification
 │ │ └── main.ipynb
-│ └── Neural_Networks/
+│ └── Neural_Networks
 │ └── main.ipynb
 │
-├── datasets/
+├── datasets
 │ └── sample_data.csv
 │
 ├── requirements.txt
@@ -65,8 +65,6 @@ pip install -r requirements.txt
 🚀 Run Notebooks
 Open Jupyter Lab or Notebook and explore:
 
-bash
-Copy code
 Bias_Variance_Control/main.ipynb
 Model_Evaluation_Selection/Regression/main.ipynb
 Each notebook contains code, visualizations, and comments for learning core ML tuning concepts.
