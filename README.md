@@ -69,7 +69,7 @@ Bias_Variance_Control/main.ipynb
 Model_Evaluation_Selection/Regression/main.ipynb
 Each notebook contains code, visualizations, and comments for learning core ML tuning concepts.
 
-🧩 Dependencies
+🧩 Dependencies.
 See requirements.txt
 
 🧠 Author
